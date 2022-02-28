@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /myblog/about
 ---
 
 This is Mahesh Sarada.<br/>
