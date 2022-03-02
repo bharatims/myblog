@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
-permalink: /myblog/about
+permalink: /about
 ---
 
+This is testing
 This is Mahesh Sarada.<br/>
 Professor at PCCOER.<br/>
 Email Id- mahesh.sarada@pccoer.in
